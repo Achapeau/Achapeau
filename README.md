@@ -25,31 +25,26 @@
   <a href="https://github.com/Achapeau/Achapeau.gitHub.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=Achapeau.gitHub.io" />
   </a>
-    <p>Wild-Quizz <a href="https://achapeau.github.io" /></p>
   <br/>
   <br/>
-   <a href="https://github.com/Achapeau/projet-reload-festival">
+  <a href="https://github.com/Achapeau/projet-reload-festival">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=projet-reload-festival" />
   </a>
-     <p>Reload-festival <a href="https://reload-festival.achap.fr" /></p>
-<br/>
+  <br/>
   <br/>
   <a href="https://github.com/Achapeau/SleepyDevSquad">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=SleepyDevSquad" />
   </a>
-    <p>Tuum-Vehiculum <a href="https://tuum-vehuculum.achap.fr" /></p>
- <br/>
+  <br/>
   <br/>
   <a href="https://github.com/Achapeau/Acces-kids">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=Acces-kids" />
-  </a> 
-      <p>Acces'kids <a href="https://acces-kids.achap.fr" /></p>
- <br/>
+  </a>
+  <br/>
   <br/>
       <a href="https://github.com/Achapeau/WCS-P3-geocode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=WCS-P3-geocode" />
   </a>
-  <p>Geocode <a href="https://geocode.achap.fr" /></p>
 </div>
 
 
