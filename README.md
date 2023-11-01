@@ -16,7 +16,6 @@
  <h2>Next steps: </h2>
  <img alt="TypeScript" src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" />
  <img alt="NextJs" src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" />
- <img alt="VueJs" src="https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png" />
 
 </div>
 <h2 align="center">Projects :</h2>
