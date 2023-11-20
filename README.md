@@ -41,8 +41,8 @@
   </a>
   <br/>
   <br/>
-      <a href="https://github.com/Achapeau/WCS-P3-geocode">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=WCS-P3-geocode" />
+      <a href="https://github.com/Achapeau/GeoCode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=GeoCode" />
   </a>
 </div>
 
