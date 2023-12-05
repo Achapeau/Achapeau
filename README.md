@@ -21,8 +21,8 @@
 <h2 align="center">Projects :</h2>
 
 <div  align="center">
-  <a href="https://github.com/Achapeau/Achapeau.gitHub.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=Achapeau.gitHub.io" />
+  <a href="https://github.com/Achapeau/discord-with-ts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Achapeau&repo=discord-with-ts" />
   </a>
   <br/>
   <br/>
